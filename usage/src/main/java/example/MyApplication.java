@@ -12,9 +12,7 @@ import org.myspringboot.MySpringBootApplication;
 
 @MySpringBootApplication
 public class MyApplication {
-
     public static void main(String[] args) {
         MySpringApplication.run(MyApplication.class,args);
     }
-
 }
